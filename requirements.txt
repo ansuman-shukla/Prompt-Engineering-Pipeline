@@ -1,0 +1,6 @@
+langsmith 
+langchain_core
+langchain-google-genai
+langchain-ollama
+numpy
+dataclasses
